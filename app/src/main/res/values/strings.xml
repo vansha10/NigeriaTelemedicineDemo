@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">NigeriaTelemedicine</string>
+  <string name="enter_your_details">Enter your details:</string>
+  <string name="given_name">Given Name*</string>
+  <string name="middle_name">Middle Name</string>
+  <string name="last_name">Last Name*</string>
+  <string name="phone_number">Phone Number*</string>
+  <string name="what_is_your_complaint">What is your complaint:</string>
+  <string name="required">*Required</string>
+  <string name="submit">Submit</string>
+  <string name="given_name2">Given Name:</string>
+  <string name="you_entered">You entered:</string>
+  <string name="middle_name2">Middle Name:</string>
+  <string name="last_name2">Last Name:</string>
+  <string name="phone_number2">Phone Number:</string>
+  <string name="complaint2">Complaint:</string>
+  <string name="confirm">confirm</string>
+  <string name="modify">modify</string>
+  <string name="success">SUCCESS!</string>
+  <string name="callback_timeline">Your information has been sent to a Doctor You can expect a callback in 1-2 days</string>
+</resources>
